@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ImageCompress.iml" filepath="$PROJECT_DIR$/.idea/ImageCompress.iml" />
-      <module fileurl="file://E:\android-project\ImageCompress\LibJpegCompress.iml" filepath="E:\android-project\ImageCompress\LibJpegCompress.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://E:\android-project\ImageCompress\app\app.iml" filepath="E:\android-project\ImageCompress\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LibJpegCompress.iml" filepath="$PROJECT_DIR$/.idea/LibJpegCompress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LibJpegCompress.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LibJpegCompress.app.iml" />
     </modules>
   </component>
 </project>
